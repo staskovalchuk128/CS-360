@@ -1,7 +1,7 @@
 # CS-360
 <h2>Inventory App</h2>
-<img style="width: 200px; display: inline-block; margin-right: 10px;" src="/images/login.png"></img>
-<img style="width: 200px; display: inline-block; margin-right: 10px;" src="/images/categories.png"></img>
+<img style="width: 200px; float: left; margin-right: 10px;" src="/images/login.png"></img>
+<img style="width: 200px;  float: left; margin-right: 10px;" src="/images/categories.png"></img>
 <h4>Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?</h4>
 The Inventory Application requires functionalities enabling users to register, authenticate, manage item additions or removals, and receive text notifications when products are out of stock or their quantity reaches zero.
 <h4>What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?</h4>
